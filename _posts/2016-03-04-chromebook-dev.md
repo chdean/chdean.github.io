@@ -1,8 +1,7 @@
 ---
 title: Development on a Chromebook without Dev Mode
-date: {}
+date: 2016-03-04
 layout: post
-published: true
 ---
 
 
