@@ -13,8 +13,7 @@
 }
 
 .site-title {
-
-    text-shadow: white 0 0 3px;
+    font-family: $head-font-family;
     font-size: 26px;
     font-weight: 300;
     line-height: $header-height;
@@ -29,6 +28,7 @@
 }
 
 .site-nav {
+    font-family: $head-font-family;
     float: right;
     line-height: $header-height;
 
@@ -37,7 +37,6 @@
     }
 
     .page-link {
-        text-shadow: white 0 0 5px;
         color: $text-color;
         line-height: $base-line-height;
 
