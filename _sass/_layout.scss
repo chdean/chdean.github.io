@@ -2,14 +2,11 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px dashed $grey-color-dark;
-    width: 100%;
+    // border-bottom: 1px dashed $grey-color-dark;
     min-height: $header-height;
-    z-index: 10;
     background-color: $header-bg-color;
 
     // Positioning context for the mobile navigation icon
-    position: fixed;
 }
 
 .site-title {
@@ -23,7 +20,7 @@
 
     &,
     &:visited {
-        color: $text-color;
+        color: white;
     }
 }
 
@@ -37,7 +34,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -206,7 +203,6 @@
  * Posts
  */
 .post-header {
-    margin-top: $header-height;
     margin-bottom: $spacing-unit;
 }
 

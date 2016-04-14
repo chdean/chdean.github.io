@@ -7,7 +7,7 @@ layout: post
 
 Chromebooks with developer mode enabled and [crouton][1] installed make pretty capable machines, but there are downsides.  Chromebooks typically have extremely limited storage capacity, making it difficult to install a full set of tools.  Enabling developer mode also forces a scary looking boot screen that is annoying and more critically makes it extremely easy (as I've learned repeatedly) to wipe the machine.
 
-Locally installed development tools also seem to run against the whole ethos.  Part of the appeal of Chromebooks is being able to wipe the machine and be back up within five minutes, and having to reconfigure a bunch of programs negates that. (You could backup the Crouton chroot... but still).
+Locally installed development tools also seem to run against the whole ethos.  Part of the appeal of Chromebooks is being able to wipe the machine and be back up within five minutes, and having to reconfigure a bunch of programs negates that. (You could backup the crouton chroot... but still).
 
 However, there are ways to make Chromebooks useful for software development without entering dev mode.  Paired up with a couple VPSs, I've been mostly satisfied using my Chromebook for all my coding and GIS work.
 
