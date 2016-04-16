@@ -1,6 +1,6 @@
 ---
 title: Editing KML Points in Google Earth
-data: 2016-04-16
+date: 2016-04-16
 layout: post
 ---
 
