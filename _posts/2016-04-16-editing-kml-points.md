@@ -4,7 +4,7 @@ date: 2016-04-16
 layout: post
 ---
 
-I made this screencast for a client who wanted a way to easily edit points in a web map I made for him.  It drew it's data from a KML file, an XML format for geographic data used especially by the [Google Maps API][1] and [Google Earth][2].  Google Earth makes it pretty easy to edit a KML layer that can then be used in other mapping platforms.
+I made this screencast for a client who wanted a way to easily edit points in a web map I made for him.  The map draws its data from a KML file, an XML format for geographic data used especially by the [Google Maps API][1] and [Google Earth][2].  Google Earth makes it pretty easy to produce a KML layer that can then be used in other mapping platforms.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aAGUErelK_4" frameborder="0" allowfullscreen></iframe>
 
