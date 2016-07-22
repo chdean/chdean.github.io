@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+img.popup-img {
+  max-height: 20vh;
+  display: block;
+  margin: auto;
+}
+
+.popup {
+  max-width: 50vh;
+}
+
+#header {
+  text-align: center;
+  background-color: #fff;
+  border-radius: 3px;
+  top: 10px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.10);
+  font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  right: 10px;
+}
+
+#header h1 {
+  margin: 0 0 10px;
+
+}
+
+#header div span {
+  border-radius: 50%;
+  display: inline-block;
+  height: 10px;
+  margin-right: 5px;
+  width: 10px;
+
+}
