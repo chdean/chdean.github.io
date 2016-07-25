@@ -11,8 +11,8 @@ email: camhopkinsdean [at] gmail [dot] com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://camerondean.net" # the base hostname & protocol for your site
-twitter_username: 
-github_username: 
+twitter_username: camhdean
+github_username: chdean
 
 # Build settings
 markdown: kramdown
