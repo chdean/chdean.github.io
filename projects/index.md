@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Projects
+custom_css: /css/projects.css
 ---
 
-[Poke Tweets](poke-tweets/)
+[Pok&eacute; Tweets
+![](/assets/preview/poke-tweets.png)](poke-tweets/)
 
-[leaflet-travelogue](https://github.com/chdean/leaflet-travelogue)
+[leaflet-travelogue
+![](/assets/preview/leaflet-travelogue.png)](https://github.com/chdean/leaflet-travelogue)
