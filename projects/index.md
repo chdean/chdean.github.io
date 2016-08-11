@@ -9,3 +9,6 @@ custom_css: /css/projects.css
 
 [leaflet-travelogue
 ![](/assets/preview/leaflet-travelogue.png)](https://github.com/chdean/leaflet-travelogue)
+
+[Connecticut Dog Licenses
+![](/assets/preview/ct-dogs.png)](ct-dogs/)
