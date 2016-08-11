@@ -1,0 +1,76 @@
+#chart {
+  width: 100%;
+  margin: auto;
+}
+
+#graph {
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: right;
+  width: 100%;
+  margin: auto;
+  color: #777;
+  font: 10px sans-serif;
+
+}
+
+path {
+  fill: none;
+  stroke: #000;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+
+}
+
+.land {
+  fill: #f9f6ed;
+}
+
+.roads {
+  stroke: black;
+  stroke-opacity: .5;
+  stroke-width: 2px;
+}
+
+.symbol {
+  fill: #4a62ae;
+  fill-opacity: .5;
+  stroke: #89b0dc;
+  stroke-opacity: .5;
+}
+
+.city {
+  fill: black;
+  stroke: none;
+  fill-opacity: .8;
+}
+
+.legend circle {
+  fill: none;
+  stroke: #ccc;
+}
+
+.legend text {
+  fill: #777;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+#legend-title text {
+  font: 14px sans-serif;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 2px;
+  text-shadow: 0 0 4px white;
+  pointer-events: none;
+  font: 12px sans-serif;
+}
