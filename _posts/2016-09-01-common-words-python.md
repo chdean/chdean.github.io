@@ -11,8 +11,5 @@ common_words = [l.rstrip() for l in open('/usr/share/dict/words', 'r')
                 if l == l.lower()]
 
 def is_common_word(word):
-    if word.lower() in common_words:
-        return True
-    else:
-        return False
+    return True if word.lower() in common_words else False
 ```
