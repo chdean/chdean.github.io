@@ -1,7 +1,8 @@
 ---
-published: false
+title: Detecting Common Words in Python
+date: 2016-09-01
+layout: post
 ---
-## Detecting Common Words in Python
 
 While working on a mapping project I needed to identify cities whose names are also common nouns, like Bend, Oregon.  This method, which uses Unix's built-in wordlist normally saved in */usr/share/dict/words* was a quick addition:
 
