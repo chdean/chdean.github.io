@@ -4,7 +4,7 @@ date: 2016-09-01
 layout: post
 ---
 
-While working on a mapping project I needed to identify cities whose names are also common nouns, like Bend, Oregon.  This method, which uses Unix's built-in wordlist normally saved in */usr/share/dict/words* was a quick addition:
+While working on a mapping project I needed to identify cities whose names are also common nouns, like Bend, Oregon.  This method, which uses Unix's built-in wordlist normally saved in */usr/share/dict/words*, was a quick addition:
 
 ```python
 with open('/usr/share/dict/words', 'r') as f:
