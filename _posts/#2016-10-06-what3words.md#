@@ -1,0 +1,12 @@
+---
+title: On What3Words
+date: 2016-10-06
+layout: post
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m proud to announce my new distributed geolocation platform, <br>What3Numbers! Locate anything on Earth with (long, lat, elev).</p>&mdash; SeanGillies34 (@sgillies) <a href="https://twitter.com/sgillies/status/687311754221588480">January 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[A lot](http://www.theatlantic.com/technology/archive/2016/06/the-most-interesting-story-about-postal-addresses-you-have-ever-read/487160/) has already been written about [What3Words](http://what3words.com/), a company developing a new global addressing system that divides the world into a 3x3 meter grid with each square represented by three words. Without rehashing *all* the issues it brings up, I have to wonder, what is the possible justification for privatizing something as fundamental and generic as geographic coordinates? What3Words does have some (arguable) advantages over lat/long coordinates, but there's nothing about its implementation that couldn't be done as an open project. [XAddress](http://xaddress.org/), for example, does essentially the same thing for free. What3Words doesn't seem to add anything that would justify its existence.
+
+Addressing systems are a means of communication, of representing a location in a sharable way. Means of communication work better the more people have access to them -- there's a reason email has stuck around for 30 years despite numerous attempts to supplant it. Open standards work.
