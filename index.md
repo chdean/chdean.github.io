@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Projects
 custom_css: /css/projects.css
 ---
 
