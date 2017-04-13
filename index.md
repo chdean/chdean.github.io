@@ -3,6 +3,8 @@ layout: default
 custom_css: /css/projects.css
 ---
 
+# Projects
+
 [Dunkin' Donuts vs. Starbucks
 ![](/assets/preview/dunkin-sb.png)](projects/dunkin-sb/)
 
